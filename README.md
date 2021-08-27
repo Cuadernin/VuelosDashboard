@@ -2,5 +2,5 @@
 
 Informe diseñado para el proyecto de R.
 
-Archivo:
+Archivo: \
 Imagen:
