@@ -1,6 +1,6 @@
 # VuelosDashboard
 
-Informe diseñado para el proyecto de R.
+Informe diseñado en Power Bi.
 
 Archivo: [aquí](https://github.com/Cuadernin/VuelosDashboard/blob/main/PROYECTO.pbix) \
 Imagenes: [aquí](https://github.com/Cuadernin/VuelosDashboard/tree/main/Proyecto_R)
